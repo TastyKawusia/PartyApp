@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/des1ro/TestApp#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
     "nodemon": "^2.0.20",
-    "ts-node": "^10.9.1",
-    "express-async-errors": "^3.1.1"
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
