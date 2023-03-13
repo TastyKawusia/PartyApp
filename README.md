@@ -8,7 +8,7 @@
 - Clone this repository:
 
 ```
-git clone https://github.com/des1ro/TestApp
+git clone https://github.com/TastyKawusia/PartyApp.git
 ```
 
 - Install dependencies
@@ -32,3 +32,4 @@ npm run dev or npm run dev:db and nodemon src/index.ts (windows)
 - Backend works on 8080
   <a href="http://localhost:8080/health">http://localhost:8080/health</a>
 
+ew

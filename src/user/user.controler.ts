@@ -3,10 +3,9 @@ export type User = {
   age: number;
 };
 
-const Johnny = { name: "Johnny", age: 34 };
+export const Johnny: User = { name: "Johnny", age: 34 };
 export function getUser() {
   console.log("User returned");
 
   return Johnny;
 }
-
